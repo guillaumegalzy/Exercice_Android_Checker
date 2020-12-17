@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ResultPourcentage">48sp</dimen>
+    <dimen name="marginTopCompatible">69dp</dimen>
+    <dimen name="compatibleTextSize">20sp</dimen>
+    <dimen name="marginTopAppName">72dp</dimen>
+</resources>

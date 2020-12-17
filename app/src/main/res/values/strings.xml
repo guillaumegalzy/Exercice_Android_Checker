@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Checker</string>
+    <string name="prenom1" />
+    <string name="prenom2" />
+    <string name="prenom1prompt">Saisir un premier prenom</string>
+    <string name="prenom2prompt">Saisir un deuxième prenom</string>
+    <string name="buttonText">Tester</string>
+    <string name="pourcentageResult">TextView</string>
+    <string name="compatibleText">Compatible?</string>
+    <string name="AppName">Checker App</string>
+    <string name="AppLogoDesc">Logo App</string>
+    <string name="ImgAndroid">imgAndroid</string>
+</resources>
